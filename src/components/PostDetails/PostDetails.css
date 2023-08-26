@@ -1,0 +1,10 @@
+.post-details{
+    border: 2px solid lightblue;
+    text-align: center;
+    padding: 10px;
+    width: 50%;
+    margin: 0 auto;
+    font-family: cursive;
+    border-radius: 10px;
+    
+}
